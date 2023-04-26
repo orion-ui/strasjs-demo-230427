@@ -1,4 +1,6 @@
-# orion-starter
+# Démo Meetup StrasbourgJS du 27/04/2023
+
+## orion-starter
 
 This template should help get you started developing with Vue 3 and **Orion UI** in Vite.
 
@@ -45,8 +47,3 @@ npm run build
 ```sh
 npm run lint
 ```
-
-## Todo
-- [x] clean dependencies
-- [x] update readme
-- [ ] make some variants
